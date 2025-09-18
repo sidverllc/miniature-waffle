@@ -22,3 +22,10 @@ __SHORT__ 255 ------- Input(s)
 [External Cores^n] -/------>|-----------r---------------|----\____/_____________ -------- Output 
                     \------>|-----------b---------------|----/___/______________ -------- Output
                      \----->|-----------i---------------|---/___/_______________ -------- Output
+
+The letters above in this section are for spectrum of colors (g) green (r) red (b) blue (i) intensity [as a multiplier]. The processor design may turn to be so fast that a short input to generate light across a apparatus that will handle such things, or in my case actually hold colored light without the need for continuous generation of the light spectrum desired. So therefore the spectrum of light colors are merely a depiction of the possibilities with different materials that are available and developed by me. As the processor above may generate so fast, that multiple cores would require additional bottleneck mitigating features, that this then could be offloaded into other processors to then slow down the processing for human consumption. If no large language text model for output is required, potentially the processing can all happen and outputed as fast as it can be stored on a storage device. The concept then therefore allows for the fastest possible known way along with the addition of implementing propietary methods when reducing the processing for human readability or when interfacing with other systems after. The below diagram could give insight into tha possible slow down by using capacitors that will absorb the energy given by the power source to an equivalent speed of the interface itself.
+
+[IC] ---> |0.5|uf -------> [SERIAL]
+[IC] ---> |0.5|uf -------> [BUS]
+[IC] ---> |0.5|uf -------> [RAM]
+[IC] ---> |0.5|uf -------> [etcetera]
