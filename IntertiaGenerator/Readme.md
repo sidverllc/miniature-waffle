@@ -1,7 +1,10 @@
 # Space Momentum Propulsion AKA Intertia Generator
 
 | --------     |
+
   ^^^^^^^^<------Is a weight on a track or conveyor that slams
+
+![Abstract Intertia Generator](figure1.png)
 
 A weight that bangs back and forth smoothly to take enertia from kinetic to potential energy and then introduce into a zero gravity environment to move a vehicle.
 
