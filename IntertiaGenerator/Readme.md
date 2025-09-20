@@ -1,5 +1,11 @@
 # Space Momentum Propulsion AKA Intertia Generator
 
+## Try at home
+You can try this at home: 1) put your finger on an object with little pressure, 2) drag your finger backwards along the object with no finger pressure trying not to move the object but staying touching it, 3) and then put pressure on it with your finger and move your finger in the opposite direction, 4) and then release your fingers pressure to stop forward momentum further. This should cause the object to move forward. If you repeat you will understand that the object will only move in one direction with this repeatable process.
+
+Notes: The coefficient of friction is different with gravity and the object on a plane (or table) so it works differently in zero gravity, and this is the basic concept within the bounds of normal gravity.
+##
+
 | --------     |
 
   ^^^^^^^^<------Is a weight on a track or conveyor that slams
