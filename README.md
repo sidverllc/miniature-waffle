@@ -3,6 +3,7 @@
 
 * [Intertia Generator](physics/inertia.md)
 * [Chain Reaction](physics/chain.md)
+* [Steam Engine](physics/steamengine.md)
 
 # Artificial Intelligence Processors
 
