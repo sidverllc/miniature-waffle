@@ -1,7 +1,8 @@
 # Space Propulsion
 ![Abstract Intertia Generator](physics/figure1.png)
 
-* [Intertia Generator](physics/README.md)
+* [Intertia Generator](physics/inertia.md)
+* [Chain Reaction](physics/chain.md)
 
 # Artificial Intelligence Processors
 
