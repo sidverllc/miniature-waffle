@@ -1,8 +1,12 @@
 # Space Propulsion
-![Abstract Intertia Generator](IntertiaGenerator/figure1.png)
+![Abstract Intertia Generator](physics/figure1.png)
 
-* [Intertia Generator](IntertiaGenerator/Readme.md)
+* [Intertia Generator](physics/README.md)
 
 # Artificial Intelligence Processors
 
-* [Trinary Processor](Processors/TrinaryProcessor.md)
+* [Trinary Processor](processor/TrinaryProcessor.md)
+
+# Sound
+
+* [Aurial Capture Preventer](sound/AurialCapturePreventer.md)
