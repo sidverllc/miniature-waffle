@@ -17,4 +17,4 @@
 # Extras
 
 * [Golf Swing](physics/golf.md)
-* [Social Media Algorithm](social/algorithmT.md)
+* [Social Media Algorithm](social/algorithmT.hpp)
