@@ -1,5 +1,4 @@
-# miniature-waffle
-A Trinary Processor
+# A Trinary Processor
 
 /\/0\1/2\/\/\/
        |
